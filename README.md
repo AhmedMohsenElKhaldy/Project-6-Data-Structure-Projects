@@ -156,7 +156,7 @@ Manual memory handling
 Applying Data Structures in real-world features (Undo / Redo)
 
 💻 How to Run
-git clone https://(https://github.com/AhmedMohsenElKhaldy)
+git clone https://github.com/AhmedMohsenElKhaldy
 Open the project in Visual Studio
 
 Build
