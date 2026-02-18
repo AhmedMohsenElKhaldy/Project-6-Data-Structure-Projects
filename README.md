@@ -1,4 +1,4 @@
-# Project 6-Data-Structure-Projects
+# Project 6-Data-Structures-Projects
 # 🚀 Data Structures From Scratch – C++ Implementation
 
 ---
